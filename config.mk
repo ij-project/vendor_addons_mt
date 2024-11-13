@@ -223,12 +223,9 @@ PRODUCT_PACKAGES += \
 
 # Navbar styles
 PRODUCT_PACKAGES += \
-    NavbarAndroidOverlay \
-	NavbarAsusOverlay \
-	NavbarDoraOverlay \
+    NavbarAsusOverlay \
     NavbarMotoOverlay \
     NavbarNexusOverlay \
-    NavbarOldOverlay \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
     NavbarSammyOverlay \
